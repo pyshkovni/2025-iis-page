@@ -1,2 +1,3 @@
-# course-page
-course page for e-learning
+# Страница курса для магистратуры УПС-1-2025 
+
+Для доступа к странице курса перейдите по ссылке https://pyshkovni.github.io/2025-iis-page/
